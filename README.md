@@ -18,5 +18,11 @@ pnpm dev
 
 ## Implementation
 
-- Check `redux` implementation here [`package/redux`](./packages/redux/)
-- Check `react-redux` implementation here [`package/redux`](./packages/react-redux/)
+- Check `redux` implementation - [`packages/redux`](./packages/redux/src/)
+- Check `react-redux` implementation - [`packages/react-redux`](./packages/react-redux/src/)
+
+## References
+
+- [`redux`](https://github.com/reduxjs/redux/blob/master/src/createStore.ts)
+- [`react-redux`](https://github.com/reduxjs/react-redux)
+- [`useSyncExternalStoreWithSelector`](https://github.com/facebook/react/blob/main/packages/use-sync-external-store/src/useSyncExternalStoreWithSelector.js)
