@@ -2,8 +2,13 @@
 
 ## Prerequisites
 
+**Tools**
 - Node.js v20
-- PNPM ^v8
+- PNPM v8+
+
+<br />**Knowledge**
+- React Context API
+- React Hooks - `useCallback`, `useSyncExternalStore`, `useDebugValue`
 
 ## Getting Started
 
